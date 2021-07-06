@@ -5,5 +5,12 @@ menu: "main"
 draft: true
 ---
 
-what's on the menu
-ojo
+**We aim to cover:**
+
+-Weekly Market Roundups
+
+-Deal news
+
+-Research on specific equities
+
+-ESG news
