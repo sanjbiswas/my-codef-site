@@ -5,13 +5,16 @@ menu: "main"
 draft: true
 ---
 
-**Coverage on:**
+>**Coverage on:**
 
--Weekly Market Roundups
+>-Weekly Market Roundups
 
--Deal news
+>-Deal news
 
--Research on specific equities
+>-Research on specific equities
 
--ESG news
+>-ESG news
 
+
+
+Note that occasionally we may post our thoughts on news stories of personal interest, or that we are eager to start a discussion around. 
