@@ -1,11 +1,11 @@
 ---
-title: "Content"
+title: "Contents"
 date: 2021-07-06T11:55:31+01:00
 menu: "main"
 draft: true
 ---
 
-**We aim to cover:**
+**Coverage on:**
 
 -Weekly Market Roundups
 
@@ -14,3 +14,4 @@ draft: true
 -Research on specific equities
 
 -ESG news
+
