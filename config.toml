@@ -1,5 +1,5 @@
 title = "Home"
-baseURL = "https://example.com"
+baseURL = "https://serene-bhabha-7ba5cd.netlify.app"
 languageCode = "en-us"
 
 theme = "ananke"
