@@ -5,4 +5,6 @@ draft: false
 description: "Student-led finance blog"
 ---
 
-**Check out our recent posts below**
+**Check out our recent posts below!**
+
+![Thoughts](thoughts.jpg)
