@@ -17,4 +17,4 @@ draft: false
 
 
 
-Note that occasionally we may post our thoughts on news stories of personal interest, or that we are eager to start a discussion around. 
+**Note** that occasionally we may post our thoughts on news stories of personal interest, or that we are eager to start a discussion around. 
