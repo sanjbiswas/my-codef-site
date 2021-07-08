@@ -1,7 +1,7 @@
 ---
 title: "Who are we?"
 date: 2021-07-06T11:51:01+01:00
-draft: true
+draft: false
 ---
 
 # A little bit about us
